@@ -14,13 +14,22 @@ caitlin.friesen@utexas.edu
 hormones and behavior * social behavior and reproduction * neuroendocrinology * behavioral ecology * applied and evolutionary physiology * organismal response to stress and stressors * anthropogenic stress
 
 ## Education
-**Doctor of Philosophy in Ecology, Evolution, and Behavior**<p align="right">2013-present </p>
+**Doctor of Philosophy in Ecology, Evolution, and Behavior**  
 **2013-present**  
 _Section of Integrative Biology, The University of Texas at Austin, Austin, TX_  
 Supervisor: Dr. Hans A. Hofmann  
   
-**Master of Science in Biology**
-**2009-2011**
+**Master of Science in Biology**  
+**2009-2011**  
+_Department of Biology, McGill University, Montreal, QC_  
+Supervisors: Dr. Lauren Chapman and Dr. Nadia Aubin-Horth  
+_The effect of hypoxia on reproductive processes in the African cichlid Pseudocrenilabrus multicolor victoriae_   
+  
+**Bachelor in Science in Biology**  
+**2003-2007**  
+_Department of Biology, University of Lethbridge, Lethbridge, AB_  
+Honors with Great Distinction  
+Cumulative G.P.A. 3.73  
 
 You can use the [editor on GitHub](https://github.com/caitlinfriesen/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
