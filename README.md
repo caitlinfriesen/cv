@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+##Caitlin N. Friesen 
+
+
+--------------------------
+<p align="center">February 15, 2017   
+Department of Integrative Biology  
+The University of Texas at Austin  
+2401 Speedway  
+Austin, TX 78712  
+Phone: (512) 744-7985  
+caitlin.friesen@utexas.edu  </p>
+--------------------------
+
+# Research Interests
+hormones and behavior * social behavior and reproduction * neuroendocrinology * behavioral ecology * applied and evolutionary physiology * organismal response to stress and stressors * anthropogenic stress
+
+# Education
+**Doctor of Philosophy in Ecology, Evolution, and Behavior**
 
 You can use the [editor on GitHub](https://github.com/caitlinfriesen/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
