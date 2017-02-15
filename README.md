@@ -120,19 +120,21 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 •	Work supervised by Joseph B. Rasmussen of the University of Lethbridge.  
   
 ## Other Experience  
-**Teaching Assistant:** Marine Biology Laboratory, Woods Hole, MA.		
-•	Neural Systems and Behavior. Led student groups, supervised techniques and presentations. **July 2015**  	
-**Teaching Assistant:** Section of Integrative Biology, The University of Texas at Austin, TX.		
-•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2017**   
-•	BIOL 455L: Vertebrate Natural History. Led field trips, graded assignments, quizzes, and exams. **Jan – May 2016**   
+**Teaching Assistant:** Marine Biology Laboratory, Woods Hole, MA.  
+•	Neural Systems and Behavior. Led student groups, supervised techniques and presentations. **July 2015**  
+  
+**Teaching Assistant:** Section of Integrative Biology, The University of Texas at Austin, TX.  
+•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2017**  
+•	BIOL 455L: Vertebrate Natural History. Led field trips, graded assignments, quizzes, and exams. **Jan – May 2016**  
 •	BIOL 361T: Comparative Animal Physiology. Taught discussion sections, graded quizzes, assignments, and exams. **Sept – Dec 2015**  
-•	BIOL 361T: Genetics Laboratory. Taught laboratory sections, prepared and graded quizzes, assignments, and exams. **Jan – May 2015**  	
+•	BIOL 361T: Genetics Laboratory. Taught laboratory sections, prepared and graded quizzes, assignments, and exams. **Jan – May 2015**  
 •	BIOL 301M: Ecology, Evolution, and Society. Taught discussion sections, prepared and graded quizzes, assignments, and exams. **Jan – May 2013**    
-**Teaching Assistant:** Biology Department, McGill University, QC.	  			
-•	BIOL 111: Organismal Biology. Organized laboratories, prepared exams, coordinated student discussions and review sessions. **Sept – Dec 2011**    
-•	BIOL 112: Cell and Molecular Biology. Created presentations, graded assignments and quizzes, organized laboratory experiments. **Jan – May 2011**    
+  
+**Teaching Assistant:** Biology Department, McGill University, QC.  
+•	BIOL 111: Organismal Biology. Organized laboratories, prepared exams, coordinated student discussions and review sessions. **Sept – Dec 2011**  
+•	BIOL 112: Cell and Molecular Biology. Created presentations, graded assignments and quizzes, organized laboratory experiments. **Jan – May 2011**  
 •	BIOL 112: Cell and Molecular Biology. Created presentations, graded assignments and quizzes, organized laboratory experiments. **Jan – May 2009**  
-    
+  
 ## Skills from Experience  
 • grant and proposal writing • research methodology • data management and analysis • statistical analysis •   
 **Field Techniques:** animal handling experience (with Animal Safety Certification), and experience seining, netting, trapping, and electro-fishing  
@@ -174,8 +176,8 @@ Environmental Sciences (1)
 Environmental Science and Pollution Research (1)		  	
   
 ## Awards and Scholarships  
-Student Research Grant, Animal Behavior Society, $1,000, **2016**  						
-EcoLab Research Grant, Texas EcoLab Program, $9,872.10, **2015**  						
+Student Research Grant, Animal Behavior Society, $1,000, **2016**  
+EcoLab Research Grant, Texas EcoLab Program, $9,872.10, **2015**  
 GK-12 Teaching Fellowship, National Science Foundation Program at UT Austin (declined), **2014**  
 BIO Outstanding TA Nomination, UT Austin Graduate Program in Ecology, Evolution, and Behavior, **2014**  
 Graduate Dean's Prestigious Fellowship Supplement, UT Austin, **2014**  
@@ -185,12 +187,12 @@ Alexander Graham Bell Canada Graduate Scholarship, Natural Sciences and Engineer
 Graduate Research Enhancement and Travel Award, McGill University, $500, **2011**  
 Third Place Talk, 2010 Canadian Society of Ecology and Evolution Meeting, $200, **2010**  
 Principal’s Graduate Scholarship, McGill University, $2 500, **2009**  
-Postgraduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $17 500, **2009**  	
+Postgraduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $17 500, **2009**  
 Principal's Graduate Scholarship, McGill University, $5 000, **2009**  
 Provost’s Graduate Scholarship, McGill University, $1 500, **2009**  
 Queen Elizabeth Graduate Master’s Scholarship, University of Calgary, $6 200 (declined), **2008**  
 Sir James Lougheed Award of Distinction, Government of Alberta, $15 000, **2008**  
-Jason Lang Scholarship, University of Lethbridge, $1 000, **2005-2007**
+Jason Lang Scholarship, University of Lethbridge, $1 000, **2005-2007**  
   
 ## Public Engagement  
 Austin Science Advocates, Member and Digest Contributor, **2017-present**  
