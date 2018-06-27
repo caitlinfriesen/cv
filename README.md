@@ -124,9 +124,9 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 •	Neural Systems and Behavior. Led student groups, supervised techniques and presentations. **July 2015**  
   
 **Teaching Assistant:** Section of Integrative Biology, The University of Texas at Austin, TX.  
-•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2018**  
-•	BIOL 311C: Introduction to Biology. Taught discussion sections, graded quizzes, assignments, and exams. **Sept – Dec 2017**  
-•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2017**  
+•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2018**   
+•	BIOL 311C: Introduction to Biology. Taught discussion sections, graded quizzes, assignments, and exams. **Sept – Dec 2017**   
+•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2017**   
 •	BIOL 455L: Vertebrate Natural History. Led field trips, graded assignments, quizzes, and exams. **Jan – May 2016**  
 •	BIOL 361T: Comparative Animal Physiology. Taught discussion sections, graded quizzes, assignments, and exams. **Sept – Dec 2015**  
 •	BIOL 361T: Genetics Laboratory. Taught laboratory sections, prepared and graded quizzes, assignments, and exams. **Jan – May 2015**  
@@ -145,11 +145,11 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 **Teaching Techniques:** experience with Blackboard, Canvas, and other management systems while teaching laboratory and discussion sessions  
 
 ## Presentations
-**Friesen CN**, Hofmann HA. "Causes and consequences of individual variation in social groups". 9th International Congress of Neuroendocrinology, July 17, 2018 (PhD work) 
+**Friesen CN**, Hofmann HA. "Causes and consequences of individual variation in social groups". 9th International Congress of Neuroendocrinology, July 17, 2018 (PhD work)   
 
-**Friesen CN**, Hofmann HA. "Dudes and broods: An integrative approach to individual variation". Brain, Behavior, and Evolution Seminar, April 27, 2018 (PhD work) 
+**Friesen CN**, Hofmann HA. "Dudes and broods: An integrative approach to individual variation". Brain, Behavior, and Evolution Seminar, April 27, 2018 (PhD work)    
 
-**Friesen CN**. "What it means to be a scientist". Science Under the Stars, Sept 14, 2017 (PhD work)  
+**Friesen CN**. "What it means to be a scientist". Science Under the Stars, Sept 14, 2017 (PhD work)    
 
 **Friesen CN**, Ramsey ME, Cummings ME. "Differential sensitivity of opsin expression to estrogen manipulation in two poeciliid freshwater fishes". Evolution Conference, June 20, 2016 (PhD work)  
   
@@ -178,26 +178,26 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 Hontela A, Quinn A, **Friesen CN**, and Vijayan MM. Adrenal toxicity of the pesticide Dimethoate in rainbow trout, Oncorhynchus mykiss and fathead minnow, Pimephales promelas. Poster session, 6th International Symposium of Fish Endocrinology, June 2008. (Undergraduate work)  
   
 ## Manuscripts Reviewed 
-Environmental Sciences (1)  
-Environmental Science and Pollution Research (1)
-General and Comparative Endocrinology (1)  
-Journal of Aquaculture and Fisheries (2)	
-Molecular Neurobiology (1)
-Physiology and Behavior (1)	
-Proceedings of the Royal Society B (1)	
+Environmental Sciences (1)   
+Environmental Science and Pollution Research (1)   
+General and Comparative Endocrinology (1)   
+Journal of Aquaculture and Fisheries (2)   
+Molecular Neurobiology (1)   
+Physiology and Behavior (1)   	
+Proceedings of the Royal Society B (1)   
   
 ## Awards and Scholarships  
-Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000 **2018** 
-Graduate School Continuing Fellowship, UT Austin, $8,409, **2018**
-P.E.O. Scholar Award, $15,000, **2018**
-PANS Trainee Travel Award for ICN 2018, $485, **2018**
-Zoology Scholarship Endowment for Excellence, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $8,000, **2017**
-Student Research Grant, Animal Behavior Society, $1,000, **2016**  
-EcoLab Research Grant, Texas EcoLab Program, $9,872.10, **2015**  
-GK-12 Teaching Fellowship, National Science Foundation Program at UT Austin (declined), **2014**  
-BIO Outstanding TA Nomination, UT Austin Graduate Program in Ecology, Evolution, and Behavior, **2014**  
-Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000 **2014**  
-Start up Grant, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $2,000, **2014**  
+Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000 **2018**   
+Graduate School Continuing Fellowship, UT Austin, $8,409, **2018**   
+P.E.O. Scholar Award, $15,000, **2018**   
+PANS Trainee Travel Award for ICN 2018, $485, **2018**   
+Zoology Scholarship Endowment for Excellence, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $8,000, **2017**   
+Student Research Grant, Animal Behavior Society, $1,000, **2016**     
+EcoLab Research Grant, Texas EcoLab Program, $9,872.10, **2015**     
+GK-12 Teaching Fellowship, National Science Foundation Program at UT Austin (declined), **2014**     
+BIO Outstanding TA Nomination, UT Austin Graduate Program in Ecology, Evolution, and Behavior, **2014**     
+Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000 **2014**     
+Start up Grant, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $2,000, **2014**     
 Postgraduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $63,000, **2012**  
 Alexander Graham Bell Canada Graduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $105,000 (declined), **2012**  
 Graduate Research Enhancement and Travel Award, McGill University, $500, **2011**  
@@ -211,7 +211,7 @@ Sir James Lougheed Award of Distinction, Government of Alberta, $15,000, **2008*
 Jason Lang Scholarship, University of Lethbridge, $1,000, **2005-2007**  
   
 ## Public Engagement  
-Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-present**	
+Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-present**   	
 Feature Scientist for KVUE, Scientist Interviewed on Bird Aggression, **2017**  
 Letters to a Pre-Scientist, Scientist Letter Writer, **2016-present**  
 Austin Science Advocates, Member and Digest Contributor, **2016-present**  
