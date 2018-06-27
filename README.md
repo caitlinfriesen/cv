@@ -211,7 +211,7 @@ Sir James Lougheed Award of Distinction, Government of Alberta, $15,000, **2008*
 Jason Lang Scholarship, University of Lethbridge, $1,000, **2005-2007**  
   
 ## Public Engagement  
-Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-present**   	
+Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-present**   
 Feature Scientist for KVUE, Scientist Interviewed on Bird Aggression, **2017**  
 Letters to a Pre-Scientist, Scientist Letter Writer, **2016-present**  
 Austin Science Advocates, Member and Digest Contributor, **2016-present**  
