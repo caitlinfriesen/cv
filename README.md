@@ -187,19 +187,19 @@ Physiology and Behavior (1)
 Proceedings of the Royal Society B (1)   
   
 ## Awards and Scholarships  
-Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000 **2018**   
+Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000, **2018**   
 Graduate School Continuing Fellowship, UT Austin, $8,409, **2018**   
 P.E.O. Scholar Award, $15,000, **2018**   
 PANS Trainee Travel Award for ICN 2018, $485, **2018**   
 Zoology Scholarship Endowment for Excellence, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $8,000, **2017**   
 Student Research Grant, Animal Behavior Society, $1,000, **2016**     
-EcoLab Research Grant, Texas EcoLab Program, $9,872.10, **2015**     
+EcoLab Research Grant, Texas EcoLab Program, $9,872, **2015**     
 GK-12 Teaching Fellowship, National Science Foundation Program at UT Austin (declined), **2014**     
 BIO Outstanding TA Nomination, UT Austin Graduate Program in Ecology, Evolution, and Behavior, **2014**     
-Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000 **2014**     
+Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000, **2014**     
 Start up Grant, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $2,000, **2014**     
 Postgraduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $63,000, **2012**  
-Alexander Graham Bell Canada Graduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $105,000 (declined), **2012**  
+Alexander Graham Bell Canada Graduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $105,000, (declined), **2012**  
 Graduate Research Enhancement and Travel Award, McGill University, $500, **2011**  
 Third Place Talk, 2010 Canadian Society of Ecology and Evolution Meeting, $200, **2010**  
 Principal’s Graduate Scholarship, McGill University, $2,500, **2009**  
