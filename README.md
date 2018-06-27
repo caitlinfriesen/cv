@@ -1,7 +1,7 @@
 # Caitlin N. Friesen 
 
 
-February 15, 2017   
+June 27, 2018   
 Department of Integrative Biology   
 The University of Texas at Austin   
 2401 Speedway    
@@ -124,6 +124,8 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 •	Neural Systems and Behavior. Led student groups, supervised techniques and presentations. **July 2015**  
   
 **Teaching Assistant:** Section of Integrative Biology, The University of Texas at Austin, TX.  
+•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2018**  
+•	BIOL 311C: Introduction to Biology. Taught discussion sections, graded quizzes, assignments, and exams. **Sept – Dec 2017**  
 •	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2017**  
 •	BIOL 455L: Vertebrate Natural History. Led field trips, graded assignments, quizzes, and exams. **Jan – May 2016**  
 •	BIOL 361T: Comparative Animal Physiology. Taught discussion sections, graded quizzes, assignments, and exams. **Sept – Dec 2015**  
@@ -139,10 +141,16 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 • grant and proposal writing • research methodology • data management and analysis • statistical analysis •   
 **Field Techniques:** animal handling experience (with Animal Safety Certification), and experience seining, netting, trapping, and electro-fishing  
 **Laboratory Techniques:** gel electrophoresis, western blotting, radioactive bioassay, ELISA, qPCR, RNA and protein extraction, and other biochemical analyses   
-**Computer Techniques:** Excel, Word, PowerPoint, Adobe Photoshop, R, Python, GitHub  
-**Teaching Techniques:** experience with Blackboard and other management systems while teaching laboratory and discussion sessions  
+**Computer Techniques:** Excel, Word, PowerPoint, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, R, Python, GitHub  
+**Teaching Techniques:** experience with Blackboard, Canvas, and other management systems while teaching laboratory and discussion sessions  
 
 ## Presentations
+**Friesen CN**, Hofmann HA. "Causes and consequences of individual variation in social groups". 9th International Congress of Neuroendocrinology, July 17, 2018 (PhD work) 
+
+**Friesen CN**, Hofmann HA. "Dudes and broods: An integrative approach to individual variation". Brain, Behavior, and Evolution Seminar, April 27, 2018 (PhD work) 
+
+**Friesen CN**. "What it means to be a scientist". Science Under the Stars, Sept 14, 2017 (PhD work)  
+
 **Friesen CN**, Ramsey ME, Cummings ME. "Differential sensitivity of opsin expression to estrogen manipulation in two poeciliid freshwater fishes". Evolution Conference, June 20, 2016 (PhD work)  
   
 **Friesen CN**, Cummings ME. " Tune in to see: The impact of sex steroids on visually-mediated mate choice in Poeciliids". Graduate Seminar in Physiology and Behavior, Dec 5, 2014 (PhD work)  
@@ -157,7 +165,7 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
   
 **Friesen CN**, Chapman LJ, and Aubin-Horth N. “Breathtaking Environments: Does low oxygen affect hormones in an African cichlid?” Canadian Society for Ecology and Evolution, May 14, 2011 (Masters work)  
   
-**Friesen CN**, “Africa, oxygen, and sex hormones in a frisky fish”. University of Lethbridge, July 27, 2010 (Masters work)  
+**Friesen CN**. “Africa, oxygen, and sex hormones in a frisky fish”. University of Lethbridge, July 27, 2010 (Masters work)  
   
 **Friesen CN**, Chapman LJ, and Aubin-Horth N. “To breed or not to breed: Does low oxygen affect sex hormones in an African cichlid?” Quebec Centre for Biodiversity Science, Dec 1, 2010 (Masters work)  
   
@@ -169,32 +177,41 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
   
 Hontela A, Quinn A, **Friesen CN**, and Vijayan MM. Adrenal toxicity of the pesticide Dimethoate in rainbow trout, Oncorhynchus mykiss and fathead minnow, Pimephales promelas. Poster session, 6th International Symposium of Fish Endocrinology, June 2008. (Undergraduate work)  
   
-## Manuscripts Reviewed
-General and Comparative Endocrinology (1)  
-Physiology and Behavior (1)  
+## Manuscripts Reviewed 
 Environmental Sciences (1)  
-Environmental Science and Pollution Research (1)		  	
+Environmental Science and Pollution Research (1)
+General and Comparative Endocrinology (1)  
+Journal of Aquaculture and Fisheries (2)	
+Molecular Neurobiology (1)
+Physiology and Behavior (1)	
+Proceedings of the Royal Society B (1)	
   
 ## Awards and Scholarships  
+Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000 **2018** 
+Graduate School Continuing Fellowship, UT Austin, $8,409, **2018**
+P.E.O. Scholar Award, $15,000, **2018**
+PANS Trainee Travel Award for ICN 2018, $485, **2018**
+Zoology Scholarship Endowment for Excellence, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $8,000, **2017**
 Student Research Grant, Animal Behavior Society, $1,000, **2016**  
 EcoLab Research Grant, Texas EcoLab Program, $9,872.10, **2015**  
 GK-12 Teaching Fellowship, National Science Foundation Program at UT Austin (declined), **2014**  
 BIO Outstanding TA Nomination, UT Austin Graduate Program in Ecology, Evolution, and Behavior, **2014**  
-Graduate Dean's Prestigious Fellowship Supplement, UT Austin, **2014**  
-Start up Grant, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $2 000, **2014**  
-Postgraduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $63 000, **2012**  
-Alexander Graham Bell Canada Graduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $105 000 (declined), **2012**  
+Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000 **2014**  
+Start up Grant, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $2,000, **2014**  
+Postgraduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $63,000, **2012**  
+Alexander Graham Bell Canada Graduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $105,000 (declined), **2012**  
 Graduate Research Enhancement and Travel Award, McGill University, $500, **2011**  
 Third Place Talk, 2010 Canadian Society of Ecology and Evolution Meeting, $200, **2010**  
-Principal’s Graduate Scholarship, McGill University, $2 500, **2009**  
-Postgraduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $17 500, **2009**  
-Principal's Graduate Scholarship, McGill University, $5 000, **2009**  
-Provost’s Graduate Scholarship, McGill University, $1 500, **2009**  
-Queen Elizabeth Graduate Master’s Scholarship, University of Calgary, $6 200 (declined), **2008**  
-Sir James Lougheed Award of Distinction, Government of Alberta, $15 000, **2008**  
-Jason Lang Scholarship, University of Lethbridge, $1 000, **2005-2007**  
+Principal’s Graduate Scholarship, McGill University, $2,500, **2009**  
+Postgraduate Scholarship, Natural Sciences and Engineering Research Council of Canada, $17,500, **2009**  
+Principal's Graduate Scholarship, McGill University, $5,000, **2009**  
+Provost’s Graduate Scholarship, McGill University, $1,500, **2009**  
+Queen Elizabeth Graduate Master’s Scholarship, University of Calgary, $6,200 (declined), **2008**  
+Sir James Lougheed Award of Distinction, Government of Alberta, $15,000, **2008**  
+Jason Lang Scholarship, University of Lethbridge, $1,000, **2005-2007**  
   
 ## Public Engagement  
+Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-present**	
 Feature Scientist for KVUE, Scientist Interviewed on Bird Aggression, **2017**  
 Letters to a Pre-Scientist, Scientist Letter Writer, **2016-present**  
 Austin Science Advocates, Member and Digest Contributor, **2016-present**  
