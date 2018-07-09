@@ -212,10 +212,10 @@ Jason Lang Scholarship, University of Lethbridge, $1,000, **2005-2007**
   
 ## Public Engagement  
 Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-present**   
-Feature Scientist for KVUE, Scientist Interviewed on Bird Aggression, **2017**  
-Letters to a Pre-Scientist, Scientist Letter Writer, **2016-present**  
 Austin Science Advocates, Member and Digest Contributor, **2016-present**  
 Crockett HS - UT Austin Research Internship Program, Mentor, **2016-present**  
+Feature Scientist for KVUE, Scientist Interviewed on Bird Aggression, **2017**  
+Letters to a Pre-Scientist, Scientist Letter Writer, **2016-2017**  
 Environmental Science Institute, GK-12 SciRes Associate, **2015**  
 Science Under the Stars, Public Outreach and Children's Activity Coordinator, **2014, 2017**  
 Laurel Mountain Elementary, Dads and Daughters Workshop, Volunteer, **2014**  
