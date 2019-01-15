@@ -41,7 +41,7 @@ Crothers L, Saporito RA, Yeager J, Lynch K, **Friesen CN**, Richards-Zawacki CL,
 
 McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colour variation in a eurytopic Afican cichlid: the role of diet and hypoxia. Biological Journal of the Linnean Society [doi/10.1111/bij.12748/epdf](doi/10.1111/bij.12748/epdf)  
 
-**Friesen CN**, Aubin-Horth N, and Chapman LJ (2012). The effect of hypoxia on sex hormones in an African cichlid _Pseudocrenilabrus multicolor victoriae_. Comparative Biochemistry and Physiology 162(1): 22-30. [doi:10.1016/j.cbpa.2012.01.019](doi:10.1016/j.cbpa.2012.01.019)  
+**Friesen CN**, Aubin-Horth N, and Chapman LJ (2012). The effect of hypoxia on sex hormones in an African cichlid _Pseudocrenilabrus multicolor victoriae_. Comparative Biochemistry and Physiology 162(1): 22-30. [doi.org/10.1016/j.cbpa.2012.01.019](doi.org/10.1016/j.cbpa.2012.01.019)  
 
 **Friesen CN**, Chapman LJ, and Aubin-Horth N (2012). Holding water steroid hormones in the African cichlid fish _Pseudocrenilabrus multicolor victoriae_. General and Comparative Endocrinology 179(2012): 400-405. [doi.org/10.1016/j.ygcen.2012.07.031](doi.org/10.1016/j.ygcen.2012.07.031)  
   
