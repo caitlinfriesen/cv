@@ -1,7 +1,7 @@
 # Caitlin N. Friesen 
 
 
-Oct 15, 2018   
+Jan 14, 2019   
 Department of Integrative Biology   
 The University of Texas at Austin   
 2401 Speedway    
@@ -32,11 +32,14 @@ Honors with Great Distinction
 Cumulative G.P.A. 3.73  
   
 ## Publications  
+
+**Friesen CN**, Hofmann HA (2019). Molecular origins and outcomes of status and stress in primates. Proceedings of the National Academy of Sciences doi.org/10.1073/pnas.1819472116
+
 **Friesen CN**, Ramsey ME, and Cummings ME (2016). Differential sensitivity to estrogen-induced opsin expression in two poeciliid freshwater fish species. General and Comparative Endocrinology doi.org/10.1016/j.ygcen.2016.12.009  
 
-Crothers L, Saporito RA, Yeager J, Lynch K, **Friesen CN**, Richards-Zawacki CL, McGraw K, and Cummings M (2016). Warning signal properties covary with toxicity but not testosterone or aggregate carotenoids in a poison frog.  Evolutionary Ecology doi/10.1007/s10682-016-9830-y  
+Crothers L, Saporito RA, Yeager J, Lynch K, **Friesen CN**, Richards-Zawacki CL, McGraw K, and Cummings M (2016). Warning signal properties covary with toxicity but not testosterone or aggregate carotenoids in a poison frog. Evolutionary Ecology doi/10.1007/s10682-016-9830-y  
 
-McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colour variation in a eurytopic Afican cichlid: the role of diet and hypoxia.  Biological Journal of the Linnean Society doi/10.1111/bij.12748/epdf  
+McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colour variation in a eurytopic Afican cichlid: the role of diet and hypoxia. Biological Journal of the Linnean Society doi/10.1111/bij.12748/epdf  
 
 **Friesen CN**, Aubin-Horth N, and Chapman LJ (2012). The effect of hypoxia on sex hormones in an African cichlid Pseudocrenilabrus multicolor victoriae. Comparative Biochemistry and Physiology 162(1): 22-30. doi:10.1016/j.cbpa.2012.01.019  
 
