@@ -33,7 +33,7 @@ Cumulative G.P.A. 3.73
   
 ## Publications  
 
-**Friesen CN**, Hofmann HA (2019). Molecular origins and outcomes of status and stress in primates. Proceedings of the National Academy of Sciences [doi.org/10.1073/pnas.1819472116](https://doi.org/10.1073/pnas.1819472116/)
+**Friesen CN**, Hofmann HA (2019). Molecular origins and outcomes of status and stress in primates. Proceedings of the National Academy of Sciences [doi.org/10.1073/pnas.1819472116](https://www.pnas.org/content/116/4/1081)
 
 **Friesen CN**, Ramsey ME, and Cummings ME (2016). Differential sensitivity to estrogen-induced opsin expression in two poeciliid freshwater fish species. General and Comparative Endocrinology [doi.org/10.1016/j.ygcen.2016.12.009](https://doi.org/10.1016/j.ygcen.2016.12.009/)  
 
