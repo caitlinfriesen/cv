@@ -37,13 +37,14 @@ Cumulative G.P.A. 3.73
 
 **Friesen CN**, Ramsey ME, and Cummings ME (2016). Differential sensitivity to estrogen-induced opsin expression in two poeciliid freshwater fish species. General and Comparative Endocrinology <a href="https://www.sciencedirect.com/science/article/pii/S0016648016304804?via%3Dihub" target="blank">doi.org/10.1016/j.ygcen.2016.12.009</a>
 
-Crothers L, Saporito RA, Yeager J, Lynch K, **Friesen CN**, Richards-Zawacki CL, McGraw K, and Cummings M (2016). Warning signal properties covary with toxicity but not testosterone or aggregate carotenoids in a poison frog. Evolutionary Ecology [doi/10.1007/s10682-016-9830-y](https://link.springer.com/article/10.1007/s10682-016-9830-y) {:target="_blank"}  
+Crothers L, Saporito RA, Yeager J, Lynch K, **Friesen CN**, Richards-Zawacki CL, McGraw K, and Cummings M (2016). Warning signal properties covary with toxicity but not testosterone or aggregate carotenoids in a poison frog. Evolutionary Ecology 
+<a href="https://link.springer.com/article/10.1007/s10682-016-9830-y" target="blank">doi/10.1007/s10682-016-9830-y</a>
 
-McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colour variation in a eurytopic Afican cichlid: the role of diet and hypoxia. Biological Journal of the Linnean Society [doi/10.1111/bij.12748/epdf](https://academic.oup.com/biolinnean/article/118/3/551/2706088) {:target="_blank"}  
+McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colour variation in a eurytopic Afican cichlid: the role of diet and hypoxia. Biological Journal of the Linnean Society <a href="https://academic.oup.com/biolinnean/article/118/3/551/2706088" target="blank">doi/10.1111/bij.12748/epdf</a>
 
-**Friesen CN**, Aubin-Horth N, and Chapman LJ (2012). The effect of hypoxia on sex hormones in an African cichlid _Pseudocrenilabrus multicolor victoriae_. Comparative Biochemistry and Physiology 162(1): 22-30. [doi.org/10.1016/j.cbpa.2012.01.019](https://www.sciencedirect.com/science/article/pii/S1095643312000220?via%3Dihub) {:target="_blank"}  
+**Friesen CN**, Aubin-Horth N, and Chapman LJ (2012). The effect of hypoxia on sex hormones in an African cichlid _Pseudocrenilabrus multicolor victoriae_. Comparative Biochemistry and Physiology 162(1): 22-30. <a href="https://www.sciencedirect.com/science/article/pii/S1095643312000220?via%3Dihub" target="blank">doi.org/10.1016/j.cbpa.2012.01.019</a>
 
-**Friesen CN**, Chapman LJ, and Aubin-Horth N (2012). Holding water steroid hormones in the African cichlid fish _Pseudocrenilabrus multicolor victoriae_. General and Comparative Endocrinology 179(2012): 400-405. [doi.org/10.1016/j.ygcen.2012.07.031](https://www.sciencedirect.com/science/article/pii/S0016648012003735?via%3Dihub) {:target="_blank"}  
+**Friesen CN**, Chapman LJ, and Aubin-Horth N (2012). Holding water steroid hormones in the African cichlid fish _Pseudocrenilabrus multicolor victoriae_. General and Comparative Endocrinology 179(2012): 400-405. <a href="https://www.sciencedirect.com/science/article/pii/S0016648012003735?via%3Dihub" target="blank">doi.org/10.1016/j.ygcen.2012.07.031</a>
   
 ## Non-reviewed Publications  
 **Friesen CN**, Hontela A (2012). The potential effects of cadmium and other mixed metal mining effluents on fish species in Morrison Lake, with particular emphasis on sockeye salmon. Review commissioned by Skeena Fisheries Commission. Submitted to the British Columbia Ministry of Environment, April 2012.  
