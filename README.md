@@ -149,6 +149,8 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 **Teaching Techniques:** experience with Blackboard, Canvas, and other management systems while teaching laboratory and discussion sessions  
 
 ## Presentations
+**Friesen CN**, Han J, Young RL, Hofmann HA. "Variations of Social Status: Identifying the neuroendocrine characteristics of dominance styles in a highly social cichlid fish". 23rd Annual Meeting of the Society for Behavioral Neuroendocrinology, June 20, 2019 (PhD work)   
+
 **Friesen CN**, Hofmann HA. "Causes and consequences of individual variation in social groups". 9th International Congress of Neuroendocrinology, July 17, 2018 (PhD work)   
 
 **Friesen CN**, Hofmann HA. "Dudes and broods: An integrative approach to individual variation". Brain, Behavior, and Evolution Seminar, April 27, 2018 (PhD work)    
