@@ -190,9 +190,9 @@ General and Comparative Endocrinology (1)
 Journal of Aquaculture and Fisheries (2)   
 Molecular Neurobiology (1)   
 Physiology and Behavior (1)   	
-Proceedings of the Royal Society B (1) 
-Frontiers in Behavioral Neuroscience (1) 
-Molecular Ecology (1) 
+Proceedings of the Royal Society B (1)   	 
+Frontiers in Behavioral Neuroscience (1)   	 
+Molecular Ecology (1)   	 
   
 ## Awards and Scholarships  
 Travel Award, Society for Behavioral Neuroendocrinology (SBN), $500, **2019**  
