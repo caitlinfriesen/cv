@@ -183,7 +183,7 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
   
 **Friesen CN**, Chapman LJ, and Aubin-Horth N. “Hassled Hormones” Poster session, 34th SQEBC, November 13 – 15, 2009. (Masters work)  
   
-Hontela A, Quinn A, **Friesen CN**, and Vijayan MM. Adrenal toxicity of the pesticide Dimethoate in rainbow trout, Oncorhynchus mykiss and fathead minnow, Pimephales promelas. Poster session, 6th International Symposium of Fish Endocrinology, June 2008. (Undergraduate work)  
+**Hontela A**, Quinn A, Friesen CN, and Vijayan MM. Adrenal toxicity of the pesticide Dimethoate in rainbow trout, Oncorhynchus mykiss and fathead minnow, *Pimephales promelas*. Poster session, 6th International Symposium of Fish Endocrinology, June 2008. (Undergraduate work)  
   
 ## Manuscripts Reviewed 
 Environmental Sciences (1)   
