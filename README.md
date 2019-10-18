@@ -149,6 +149,8 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 **Teaching Techniques:** experience with Blackboard, Canvas, and other management systems while teaching laboratory and discussion sessions  
 
 ## Presentations
+**Han J**, Friesen CN, Young RL, Hofmann HA. “Bioinformatics Meets Social Neuroscience: Brain Transcriptomes Vary According to Social Status”. TACC Symposium for Texas Researchers, September 26, 2019 (PhD work)
+
 **Friesen CN**, Han J, Young RL, Hofmann HA. "Variations of Social Status: Identifying the neuroendocrine characteristics of dominance styles in a highly social cichlid fish". 23rd Annual Meeting of the Society for Behavioral Neuroendocrinology, June 20, 2019 (PhD work)   
 
 **Friesen CN**, Hofmann HA. "Causes and consequences of individual variation in social groups". 9th International Congress of Neuroendocrinology, July 17, 2018 (PhD work)   
