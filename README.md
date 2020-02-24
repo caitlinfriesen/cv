@@ -1,7 +1,7 @@
 # Caitlin N. Friesen 
 
 
-June 24, 2019   
+Feb 24, 2019   
 Department of Integrative Biology   
 The University of Texas at Austin   
 2401 Speedway    
@@ -149,7 +149,11 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 **Teaching Techniques:** experience with Blackboard, Canvas, and other management systems while teaching laboratory and discussion sessions  
 
 ## Presentations
-**Han J**, Friesen CN, Young RL, Hofmann HA. “Bioinformatics Meets Social Neuroscience: Brain Transcriptomes Vary According to Social Status”. TACC Symposium for Texas Researchers, September 26, 2019 (PhD work)
+**Friesen CN**, Han J, Young RL, Hofmann HA. "Using correlated patterns of behavioral and molecular variation to understand individual variation". 24th Annual Meeting of the Society for Behavioral Neuroendocrinology, Jan 5, 2020 (PhD work)   
+
+**Friesen CN**, Han J, Young RL, Hofmann HA. "Integrating behavior, physiology, and neural gene expression to understand individual variation". Brain, Behavior, and Evolution Seminar, November 15, 2019 (PhD work)     
+
+**Han J**, Friesen CN, Young RL, Hofmann HA. “Bioinformatics Meets Social Neuroscience: Brain Transcriptomes Vary According to Social Status”. TACC Symposium for Texas Researchers, September 26, 2019 (PhD work) 
 
 **Friesen CN**, Han J, Young RL, Hofmann HA. "Variations of Social Status: Identifying the neuroendocrine characteristics of dominance styles in a highly social cichlid fish". 23rd Annual Meeting of the Society for Behavioral Neuroendocrinology, June 20, 2019 (PhD work)   
 
