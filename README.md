@@ -33,6 +33,8 @@ Cumulative G.P.A. 3.73
   
 ## Publications  
 
+Lynch KS, Louder MIM, **Friesen CN**, Fischer EK, Xiang A, Steele A, and Shalov J (2020). Examining the disconnect between prolactin and parental care in avian brood parasites. Genes, Brain and Behavior 
+
 **Friesen CN**, Hofmann HA (2019). Molecular origins and outcomes of status and stress in primates. Proceedings of the National Academy of Sciences <a href="https://www.pnas.org/content/116/4/1081" target="blank">doi.org/10.1073/pnas.1819472116</a>
 
 **Friesen CN**, Ramsey ME, and Cummings ME (2016). Differential sensitivity to estrogen-induced opsin expression in two poeciliid freshwater fish species. General and Comparative Endocrinology <a href="https://www.sciencedirect.com/science/article/pii/S0016648016304804?via%3Dihub" target="blank">doi.org/10.1016/j.ygcen.2016.12.009</a>
