@@ -33,7 +33,7 @@ Cumulative G.P.A. 3.73
   
 ## Publications  
 
-Lynch KS, Louder MIM, **Friesen CN**, Fischer EK, Xiang A, Steele A, and Shalov J (2020). Examining the disconnect between prolactin and parental care in avian brood parasites. Genes, Brain and Behavior 
+Lynch KS, Louder MIM, **Friesen CN**, Fischer EK, Xiang A, Steele A, and Shalov J (2020). Examining the disconnect between prolactin and parental care in avian brood parasites. Genes, Brain and Behavior <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gbb.12653" target="blank">doi.org/10.1111/gbb.12653</a>
 
 **Friesen CN**, Hofmann HA (2019). Molecular origins and outcomes of status and stress in primates. Proceedings of the National Academy of Sciences <a href="https://www.pnas.org/content/116/4/1081" target="blank">doi.org/10.1073/pnas.1819472116</a>
 
