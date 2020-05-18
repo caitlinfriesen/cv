@@ -1,7 +1,7 @@
 # Caitlin N. Friesen 
 
 
-Feb 24, 2019   
+May 18, 2019   
 Department of Integrative Biology   
 The University of Texas at Austin   
 2401 Speedway    
@@ -130,13 +130,15 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 •	Neural Systems and Behavior. Led student groups, supervised techniques and presentations. **July 2015**  
   
 **Teaching Assistant:** Section of Integrative Biology, The University of Texas at Austin, TX.  
-•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2018**   
-•	BIOL 311C: Introduction to Biology. Taught discussion sections, graded quizzes, assignments, and exams. **Sept – Dec 2017**   
-•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. **Jan – May 2017**   
-•	BIOL 455L: Vertebrate Natural History. Led field trips, graded assignments, quizzes, and exams. **Jan – May 2016**  
-•	BIOL 361T: Comparative Animal Physiology. Taught discussion sections, graded quizzes, assignments, and exams. **Sept – Dec 2015**  
-•	BIOL 361T: Genetics Laboratory. Taught laboratory sections, prepared and graded quizzes, assignments, and exams. **Jan – May 2015**  
-•	BIOL 301M: Ecology, Evolution, and Society. Taught discussion sections, prepared and graded quizzes, assignments, and exams. **Jan – May 2013**    
+•	BIOL 311D: Introductory Biology II. Taught discussion sections, graded quizzes, assignments, and exams. *No instructor rating available.* **Jan – May 2020**   
+•	BIOL 311C: Introductory Biology I. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.45/5 **Jan – May 2018**   
+•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.2/5 **Jan – May 2018**   
+•	BIOL 311C: Introduction to Biology. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.1/5 **Sept – Dec 2017**   
+•	BIOL 301L: Molecules to Organisms. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.4/5 **Jan – May 2017**   
+•	BIOL 455L: Vertebrate Natural History. Led field trips, graded assignments, quizzes, and exams. *No instructor rating available.* **Jan – May 2016**  
+•	BIOL 361T: Comparative Animal Physiology. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.6/5 **Sept – Dec 2015**  
+•	BIOL 325L: Genetics Laboratory. Taught laboratory sections, prepared and graded quizzes, assignments, and exams. Instructor rating: 4.95/5 **Jan – May 2015**  
+•	BIOL 301M: Ecology, Evolution, and Society. Taught discussion sections, prepared and graded quizzes, assignments, and exams. Instructor rating: 4.3/5 **Jan – May 2013**    
   
 **Teaching Assistant:** Biology Department, McGill University, QC.  
 •	BIOL 111: Organismal Biology. Organized laboratories, prepared exams, coordinated student discussions and review sessions. **Sept – Dec 2011**  
@@ -200,9 +202,10 @@ Molecular Neurobiology (1)
 Physiology and Behavior (1)   	
 Proceedings of the Royal Society B (1)	      
 Frontiers in Behavioral Neuroscience (1)	  
-Molecular Ecology (1)	     	 
+Molecular Ecology (3)	     	 
   
 ## Awards and Scholarships  
+BIO Outstanding TA Award, UT Austin Graduate Program in Ecology, Evolution, and Behavior,$500, **2020**    
 Travel Award, Society for Behavioral Neuroendocrinology (SBN), $500, **2019**  
 Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000, **2018**   
 Graduate School Continuing Fellowship, UT Austin, $8,409, **2018**   
