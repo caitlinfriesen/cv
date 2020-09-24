@@ -153,8 +153,10 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 **Teaching Techniques:** experience with Blackboard, Canvas, and other management systems while teaching laboratory and discussion sessions  
 
 ## Presentations
-**Friesen CN**, Han J, Young RL, Hofmann HA. "Using correlated patterns of behavioral and molecular variation to understand individual variation". 24th Annual Meeting of the Society for Behavioral Neuroendocrinology, Jan 5, 2020 (PhD work)   
-
+**Friesen CN**, Han J, Young RL, Hofmann HA. "Physiological and molecular correlates of variation in space use and aggression in a highly social fish". The 57th Annual Conference of the Animal Behavior Society, July 28-31, 2020 (PhD work)
+  
+**Friesen CN**, Han J, Young RL, Hofmann HA. "Using correlated patterns of behavioral and molecular variation to understand individual variation". Society for Integrative and Comparative Biology Meeting, Jan 5, 2020 (PhD work)   
+  
 **Friesen CN**, Han J, Young RL, Hofmann HA. "Integrating behavior, physiology, and neural gene expression to understand individual variation". Brain, Behavior, and Evolution Seminar, November 15, 2019 (PhD work)     
 
 **Han J**, Friesen CN, Young RL, Hofmann HA. “Bioinformatics Meets Social Neuroscience: Brain Transcriptomes Vary According to Social Status”. TACC Symposium for Texas Researchers, September 26, 2019 (PhD work) 
