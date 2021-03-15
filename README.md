@@ -201,15 +201,14 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 Environmental Sciences (1)   
 Environmental Science and Pollution Research (1)   
 General and Comparative Endocrinology (2)   
-Integrative and Comparative Biology (1) 
+Integrative and Comparative Biology (1)   
 Journal of Aquaculture and Fisheries (2)   
-Molecular Ecology (3) 
+Molecular Ecology (3)   
 Molecular Neurobiology (1)   
-Physiology and Behavior (1)   	
-Proceedings of the Royal Society B (1)	      
-Frontiers in Behavioral Neuroscience (1)	  
+Physiology and Behavior (1)   
+Proceedings of the Royal Society B (1)   
+Frontiers in Behavioral Neuroscience (1)     
 	     	 
-  
 ## Awards and Scholarships  
 BIO Outstanding TA Award, UT Austin Graduate Program in Ecology, Evolution, and Behavior,$500, **2020**    
 Travel Award, Society for Behavioral Neuroendocrinology (SBN), $500, **2019**  
