@@ -210,7 +210,7 @@ Proceedings of the Royal Society B (1)
 Frontiers in Behavioral Neuroscience (1)     
 	     	 
 ## Awards and Scholarships  
-Graduate School Summer 2021 Fellowship, UT Austin, $11 000, **2021**
+Graduate School Summer 2021 Fellowship, UT Austin, $11 000, **2021**  
 BIO Outstanding TA Award, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $500, **2020**    
 Travel Award, Society for Behavioral Neuroendocrinology (SBN), $500, **2019**  
 Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1,000, **2018**   
