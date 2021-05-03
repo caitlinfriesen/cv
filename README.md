@@ -37,7 +37,7 @@ Lynch KS, Louder MIM, **Friesen CN**, Fischer EK, Xiang A, Steele A, and Shalov 
 
 **Friesen CN**, Hofmann HA (2019). Molecular origins and outcomes of status and stress in primates. Proceedings of the National Academy of Sciences <a href="https://www.pnas.org/content/116/4/1081" target="blank">doi.org/10.1073/pnas.1819472116</a>
 
-**Friesen CN**, Ramsey ME, and Cummings ME (2016). Differential sensitivity to estrogen-induced opsin expression in two poeciliid freshwater fish species. General and Comparative Endocrinology <a href="https://www.sciencedirect.com/science/article/pii/S0016648016304804?via%3Dihub" target="blank">doi.org/10.1016/j.ygcen.2016.12.009</a>
+**Friesen CN**, Ramsey ME, and Cummings ME (2017). Differential sensitivity to estrogen-induced opsin expression in two poeciliid freshwater fish species. General and Comparative Endocrinology <a href="https://www.sciencedirect.com/science/article/pii/S0016648016304804?via%3Dihub" target="blank">doi.org/10.1016/j.ygcen.2016.12.009</a>
 
 Crothers L, Saporito RA, Yeager J, Lynch K, **Friesen CN**, Richards-Zawacki CL, McGraw K, and Cummings M (2016). Warning signal properties covary with toxicity but not testosterone or aggregate carotenoids in a poison frog. Evolutionary Ecology 
 <a href="https://link.springer.com/article/10.1007/s10682-016-9830-y" target="blank">doi/10.1007/s10682-016-9830-y</a>
