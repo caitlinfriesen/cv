@@ -197,9 +197,11 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
   
 **Hontela A**, Quinn A, Friesen CN, and Vijayan MM. Adrenal toxicity of the pesticide Dimethoate in rainbow trout, Oncorhynchus mykiss and fathead minnow, *Pimephales promelas*. Poster session, 6th International Symposium of Fish Endocrinology, June 2008. (Undergraduate work)  
   
-## Manuscripts Reviewed 
+## Manuscripts Reviewed
+Biology Letters (1)  
 Environmental Sciences (1)   
-Environmental Science and Pollution Research (1)   
+Environmental Science and Pollution Research (1)  
+Frontiers in Behavioral Neuroscience (1)  
 General and Comparative Endocrinology (2)   
 Integrative and Comparative Biology (1)   
 Journal of Aquaculture and Fisheries (2)   
@@ -207,7 +209,7 @@ Molecular Ecology (3)
 Molecular Neurobiology (1)   
 Physiology and Behavior (1)   
 Proceedings of the Royal Society B (1)   
-Frontiers in Behavioral Neuroscience (1)     
+   
 	     	 
 ## Awards and Scholarships  
 Graduate School Summer 2021 Fellowship, UT Austin, $11 000, **2021**  
