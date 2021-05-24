@@ -130,7 +130,7 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 •	Neural Systems and Behavior. Led student groups, supervised techniques and presentations. **July 2015**  
   
 **Teaching Assistant:** Section of Integrative Biology, The University of Texas at Austin, TX.  
-•	BIOL 311D: Introductory Biology II. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: N/A  **Jan – May 2021**    
+•	BIOL 311D: Introductory Biology II. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.5/5  **Jan – May 2021**    
 •	BIOL 311C: Introductory Biology I. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.7/5 **Sept – Dec 2020**     
 •	BIOL 311D: Introductory Biology II. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.9/5 **Jan – May 2020**      
 •	BIOL 311C: Introductory Biology I. Taught discussion sections, graded quizzes, assignments, and exams. Instructor rating: 4.45/5 **Sept – Dec 2019**    
