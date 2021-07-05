@@ -1,7 +1,7 @@
 # Caitlin N. Friesen 
 
 
-May 24, 2021   
+July 5, 2021   
 Department of Integrative Biology   
 The University of Texas at Austin   
 2401 Speedway    
@@ -32,6 +32,7 @@ Honors with Great Distinction
 Cumulative G.P.A. 3.73  
   
 ## Publications  
+Antunes DF, Teles MC, Zuelling M, **Friesen CN**, Oliveira RF, Aubin-Horth N, and Taborsky B (2021). Early social deprivation shapes neuronal programming of the social decision-making network in a cooperatively breeding fish. Molecular Ecology <a href="https://doi-org.ezproxy.lib.utexas.edu/10.1111/mec.16019" target="blank">doi.org/10.1111/mec.16019</a>
 
 Lynch KS, Louder MIM, **Friesen CN**, Fischer EK, Xiang A, Steele A, and Shalov J (2020). Examining the disconnect between prolactin and parental care in avian brood parasites. Genes, Brain and Behavior <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gbb.12653" target="blank">doi.org/10.1111/gbb.12653</a>
 
