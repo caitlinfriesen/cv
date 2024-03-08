@@ -5,7 +5,7 @@ Mar 8, 2024
 Neuroscience Institute   
 Georgia State University     
 caitlin.friesen@gmail.com
---------------------------   
+--------------------------    
 <a href="https://caitlinfriesen.com/" target="blank">website</a> :: <a href="https://github.com/caitlinfriesen" target="blank">GitHub</a> :: <a href="https://www.linkedin.com/in/caitlinfriesen/" target="blank">LinkedIn</a> :: <a href="https://twitter.com/SurlyJill" target="blank">Twitter</a> :: <a href="https://caitlinfriesen.myportfolio.com/work" target="blank">portfolio</a> 
 
 
