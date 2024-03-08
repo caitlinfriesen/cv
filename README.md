@@ -1,10 +1,10 @@
 # Caitlin N. Friesen 
 
 
-Aug 17, 2021   
-Department of Integrative Biology   
-The University of Texas at Austin      
-caitlin.friesen@utexas.edu  
+Mar 8, 2024   
+Neuroscience Institute   
+Georgia State University     
+caitlin.friesen@gmail.com
 --------------------------
 <a href="https://caitlinfriesen.com/" target="blank">website</a> :: <a href="https://github.com/caitlinfriesen" target="blank">GitHub</a> :: <a href="https://www.linkedin.com/in/caitlinfriesen/" target="blank">LinkedIn</a> :: <a href="https://twitter.com/SurlyJill" target="blank">Twitter</a> :: <a href="https://caitlinfriesen.myportfolio.com/work" target="blank">portfolio</a> 
 
@@ -44,6 +44,7 @@ Queen Elizabeth Graduate Master’s Scholarship, University of Calgary, $6 200 (
 Sir James Lougheed Award of Distinction, Government of Alberta, $15 000, **2008**  
  
 ## Honors and Awards 
+2022 Postdoctoral Association Award for Outstanding Oral Presentation, GSU, $150, **2022**  
 BIO Outstanding TA Award, UT Austin Graduate Program in Ecology, Evolution, and Behavior, $500, **2020**    
 Travel Award, Society for Behavioral Neuroendocrinology (SBN), $500, **2019**  
 Graduate Dean's Prestigious Fellowship Supplement, UT Austin, $1000, **2018**    
@@ -60,6 +61,8 @@ Provost’s Graduate Scholarship, McGill University, $1 500, **2009**
 Jason Lang Scholarship, University of Lethbridge, $1 000, **2005-2007**  
 
 ## Publications  
+**Friesen CN**, Maclain KD, Hofmann HA (2022). Social status mediates behavioral, endocrine, and neural responses to an intruder challenge in a social cichlid, Astatotilapia burtoni. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/abs/pii/S0018506X22001350?via%3Dihub" target="blank">doi.org/10.1016/j.yhbeh.2022.105241</a>
+
 Antunes DF, Teles MC, Zuelling M, **Friesen CN**, Oliveira RF, Aubin-Horth N, and Taborsky B (2021). Early social deprivation shapes neuronal programming of the social decision-making network in a cooperatively breeding fish. Molecular Ecology <a href="https://doi-org.ezproxy.lib.utexas.edu/10.1111/mec.16019" target="blank">doi.org/10.1111/mec.16019</a>
 
 Lynch KS, Louder MIM, **Friesen CN**, Fischer EK, Xiang A, Steele A, and Shalov J (2020). Examining the disconnect between prolactin and parental care in avian brood parasites. Genes, Brain and Behavior <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gbb.12653" target="blank">doi.org/10.1111/gbb.12653</a>
@@ -81,6 +84,12 @@ McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colo
 **Friesen CN**, Hontela A (2012). The potential effects of cadmium and other mixed metal mining effluents on fish species in Morrison Lake, with particular emphasis on sockeye salmon. Review commissioned by Skeena Fisheries Commission. Submitted to the British Columbia Ministry of Environment, April 2012.  
 
 ## Presentations
+**Friesen CN**, Schappaugh N, Selke A, de Vries GJ, Petrulis A. “Sex and social experience mediate vasopressin 1a receptor distribution in the lateral septum of mice”, Oral presentation, Society for Neuroscience Annual Meeting, Nov 13, 2023
+
+**Friesen CN**, Selke A, de Vries GJ, Petrulis A. “The effects of sex and social experience on vasopressin 1a receptor expression in mice”, Oral presentation, Georgia State University Postdoctoral Symposium, Sept 23, 2022
+
+**Friesen CN**. "Patterns of dominance in a social fish", Oral presentation, Neuroscience Institute of Georgia State University Seminar Series, July 8, 2022 
+
 **Friesen CN**, Han J, Young RL, Hofmann HA. "Physiological and molecular correlates of variation in space use and aggression in a highly social fish". The 57th Annual Conference of the Animal Behavior Society, July 28-31, 2020 
   
 **Friesen CN**, Han J, Young RL, Hofmann HA. "Using correlated patterns of behavioral and molecular variation to understand individual variation". Society for Integrative and Comparative Biology Meeting, Jan 5, 2020    
@@ -249,16 +258,20 @@ Chinook Health Region, Emergency Department	 Volunteer, **2006-2007**
 Southern Alberta Art Gallery Volunteer, **2003-2007**  
 
 ## Manuscripts Reviewed
+Behavioral Brain Research (1)  
 Biology Letters (1)  
 Environmental Sciences (1)   
-Environmental Science and Pollution Research (1)  
+Environmental Science and Pollution Research (1) 
+Ethology (1)   
 Frontiers in Behavioral Neuroscience (1)  
 General and Comparative Endocrinology (2)   
 Integrative and Comparative Biology (1)   
 Journal of Aquaculture and Fisheries (2)   
+Journal of Experimental Biology (1)   
 Molecular Ecology (3)   
 Molecular Neurobiology (1)   
 Physiology and Behavior (1)   
 Proceedings of the Royal Society B (1)
+Scientific Reports (1)   
   
   
