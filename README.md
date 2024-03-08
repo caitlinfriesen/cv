@@ -236,7 +236,7 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 •	BIOL 112: Cell and Molecular Biology. Created presentations, graded assignments and quizzes, organized laboratory experiments. **Jan – May 2009**  
   
 ## Mentoring and Public Engagement  
-INSTINCT REU - UT Austin Research Internship Program, Near-peer Mentor, **2021** 
+INSTINCT REU - UT Austin Research Internship Program, Near-peer Mentor, **2021**   
 Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-present**   
 Austin Science Advocates, Member and Digest Contributor, **2016-present**  
 Crockett HS - UT Austin Research Internship Program, Mentor, **2016-present**  
