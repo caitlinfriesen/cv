@@ -14,7 +14,7 @@ hormones and behavior * social behavior and reproduction * neuroendocrinology * 
 
 ## Education
 **Doctor of Philosophy in Ecology, Evolution, and Behavior**  
-**2013-present**  (defense date: Oct 15, 2021)   
+**2013-2021**     
 _Section of Integrative Biology, The University of Texas at Austin, Austin, TX_  
 Supervisor: Dr. Hans A. Hofmann  
   
@@ -29,6 +29,11 @@ _The effect of hypoxia on reproductive processes in the African cichlid Pseudocr
 _Department of Biology, University of Lethbridge, Lethbridge, AB_  
 Honors with Great Distinction  
 Cumulative G.P.A. 3.73  
+
+## Professional Appointments
+**Postdoctoral Researcher in Behavioral Neuroscience**  
+**2021-present**     
+_Neuroscience Institute, Georgia State University, Atlanta, GA_  
 
 ## Grants and Fellowships 
 Graduate School Summer 2021 Fellowship, UT Austin, $11 000, **2021**  
@@ -84,15 +89,31 @@ McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colo
 **Friesen CN**, Hontela A (2012). The potential effects of cadmium and other mixed metal mining effluents on fish species in Morrison Lake, with particular emphasis on sockeye salmon. Review commissioned by Skeena Fisheries Commission. Submitted to the British Columbia Ministry of Environment, April 2012.  
 
 ## Presentations
-**Friesen CN**, Schappaugh N, Selke A, de Vries GJ, Petrulis A. “Sex and social experience mediate vasopressin 1a receptor distribution in the lateral septum of mice”, Oral presentation, Society for Neuroscience Annual Meeting, Nov 13, 2023
+Zaw A, Schappaugh N, **Friesen CN**, de Vries GJ, Petrulis A. “Spatial organization of distinct vasopressinergic projections in the mouse brain”. 28th Annual Meeting of the Society for Behavioral Neuroendocrinology, June 25, 2024
 
-**Friesen CN**, Selke A, de Vries GJ, Petrulis A. “The effects of sex and social experience on vasopressin 1a receptor expression in mice”, Oral presentation, Georgia State University Postdoctoral Symposium, Sept 23, 2022
+Schappaugh N, Zaw A, **Friesen CN**, de Vries GJ, Petrulis A. “Sex differences in vasopressin 1a receptor expression within the social behavior network of the mouse brain”. 28th Annual Meeting of the Society for Behavioral Neuroendocrinology, June 25, 2024
 
-**Friesen CN**. "Patterns of dominance in a social fish", Oral presentation, Neuroscience Institute of Georgia State University Seminar Series, July 8, 2022 
+Hartswick DR, **Friesen CN**, Schappaugh N, Selke A, Kindler P, de Vries GJ, Petrulis A. “Behavioral and structural phenotypes of novel vasopressin 1a receptor cre-driver and conditional knockout mouse strain”. 28th Annual Meeting of the Society for Behavioral Neuroendocrinology, June 24, 2024
 
-**Friesen CN**, Han J, Young RL, Hofmann HA. "Physiological and molecular correlates of variation in space use and aggression in a highly social fish". The 57th Annual Conference of the Animal Behavior Society, July 28-31, 2020 
+**Friesen CN**, Selke A, de Vries GJ, Petrulis A. “The effects of sex and social experience on vasopressin 1a receptor distribution in the social brain of mice”. 14th World Congress on Neurohypophysial Hormones, May 16, 2024  
+
+Suarez SG, **Friesen CN**, de Vries GJ, Petrulis A. “Amplifying vasopressin in a sexually differentiated circuit leads to alteration in social and emotional behavior”. 14th World Congress on Neurohypophysial Hormones, May 16, 2024    
+
+**Friesen CN**, Schappaugh N, Selke A, de Vries GJ, Petrulis A. “Sex and social experience mediate vasopressin 1a receptor distribution in the lateral septum of mice”. Society for Neuroscience Annual Meeting, Nov 13, 2023    
+
+Hartswick DR, **Friesen CN**, Selke A, Kindler P, Schappaugh N, Rigney N, de Vries GJ, Petrulis A. “Behavioral and structural phenotypes of a novel vasopressin 1a receptor cre-driver mouse strain”. Society for Neuroscience Annual Meeting, Nov 13, 2023    
+
+**Friesen CN**, Selke A, de Vries GJ, Petrulis A. “The effects of sex and social experience on vasopressin 1a receptor expression in mice”. Georgia State University Postdoctoral Symposium, Sept 23, 2022    
+
+**Friesen CN**. "Patterns of dominance in a social fish". Neuroscience Institute of Georgia State University Seminar Series, July 8, 2022     
+
+**Friesen CN**, Han J, Young RL, Hofmann HA. "Physiological and molecular correlates of variation in space use and aggression in a highly social fish". The 57th Annual Conference of the Animal Behavior Society, July 28-31, 2020     
   
 **Friesen CN**, Han J, Young RL, Hofmann HA. "Using correlated patterns of behavioral and molecular variation to understand individual variation". Society for Integrative and Comparative Biology Meeting, Jan 5, 2020    
+
+Han JW, **Friesen CN**, Young RL, Hofmann HA. "Social Regulation of Neural Transcriptomes". 24th Annual Meeting of the Society for Behavioral Neuroendocrinology, Jan 5, 2020     
+ 
+Wang JY, Paggeot LX, **Friesen CN**, Solomon-Lane TK, Hofmann HA, Young RL. “Neural Transcriptomic Responses to Social Opportunity”. 24th Annual Meeting of the Society for Behavioral Neuroendocrinology, Jan 5, 2020     
   
 **Friesen CN**, Han J, Young RL, Hofmann HA. "Integrating behavior, physiology, and neural gene expression to understand individual variation". Brain, Behavior, and Evolution Seminar, November 15, 2019      
 
@@ -110,27 +131,27 @@ McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colo
   
 **Friesen CN**, Cummings ME. " Tune in to see: The impact of sex steroids on visually-mediated mate choice in Poeciliids". Graduate Seminar in Physiology and Behavior, Dec 5, 2014   
   
-**Friesen CN**, Cummings ME. "Beauty in the eye of the beholder: Do sex hormones modulate visual mate choice in sailfin mollies?" Genomes to/aux Biomes Montreal, May 26, 2014   
+**Friesen CN**, Cummings ME. "Beauty in the eye of the beholder: Do sex hormones modulate visual mate choice in sailfin mollies?". Genomes to/aux Biomes Montreal, May 26, 2014   
   
-**Friesen CN**, Cummings ME. "Sex steroids and sensory signals: Do hormones influence visually-mediated mate choice in sailfin mollies?", 10th Integrative Biology Graduate Student Symposium, Apr 12th, 2014   
+**Friesen CN**, Cummings ME. "Sex steroids and sensory signals: Do hormones influence visually-mediated mate choice in sailfin mollies?". 10th Integrative Biology Graduate Student Symposium, Apr 12th, 2014   
   
-**Friesen CN**, Chapman LJ, and Aubin-Horth N. "The sex lives of fish in breathtaking environments". Graduate Seminar in Physiology and Behavior, Sept 6, 2013   
+**Friesen CN**, Chapman LJ, and Aubin-Horth N. "The sex lives of fish in breathtaking environments". Oral presentation, Graduate Seminar in Physiology and Behavior, Sept 6, 2013   
   
 **Friesen CN**, Chapman LJ, and Aubin-Horth N. “With ‘Baited’ Breath: The sex lives of cichlids under low oxygen”. Ecology and Evolution Lunch, Nov 2, 2011   
   
-**Friesen CN**, Chapman LJ, and Aubin-Horth N. “Breathtaking Environments: Does low oxygen affect hormones in an African cichlid?” Canadian Society for Ecology and Evolution, May 14, 2011   
+**Friesen CN**, Chapman LJ, and Aubin-Horth N. “Breathtaking Environments: Does low oxygen affect hormones in an African cichlid?”. Canadian Society for Ecology and Evolution, May 14, 2011   
   
-**Friesen CN**. “Africa, oxygen, and sex hormones in a frisky fish”. University of Lethbridge, July 27, 2010  
+**Friesen CN**. “Africa, oxygen, and sex hormones in a frisky fish”. Oral presentation, University of Lethbridge, July 27, 2010  
   
-**Friesen CN**, Chapman LJ, and Aubin-Horth N. “To breed or not to breed: Does low oxygen affect sex hormones in an African cichlid?” Quebec Centre for Biodiversity Science, Dec 1, 2010   
+**Friesen CN**, Chapman LJ, and Aubin-Horth N. “To breed or not to breed: Does low oxygen affect sex hormones in an African cichlid?”. Quebec Centre for Biodiversity Science, Dec 1, 2010   
   
-**Friesen CN**, Chapman LJ, and Aubin-Horth N. “Hypoxia, sex steroids, and cichlids: Does hypoxia alter hormones in a frisky fish?” Canadian Society for Ecology and Evolution, May 10, 2010  
+**Friesen CN**, Chapman LJ, and Aubin-Horth N. “Hypoxia, sex steroids, and cichlids: Does hypoxia alter hormones in a frisky fish?”. Canadian Society for Ecology and Evolution, May 10, 2010  
   
-**Friesen CN**. “Hassled hormones: Does oxygen affect sex hormones in an African cichlid? Oral presentation, McGill Biology Graduate Student Symposium, December 8, 2009   
+**Friesen CN**. “Hassled hormones: Does oxygen affect sex hormones in an African cichlid?". Oral presentation, McGill Biology Graduate Student Symposium, December 8, 2009   
   
-**Friesen CN**, Chapman LJ, and Aubin-Horth N. “Hassled Hormones” Poster session, 34th SQEBC, November 13 – 15, 2009.   
+**Friesen CN**, Chapman LJ, and Aubin-Horth N. “Hassled Hormones”. Poster session, 34th SQEBC, November 13 – 15, 2009.   
   
-**Hontela A**, Quinn A, Friesen CN, and Vijayan MM. Adrenal toxicity of the pesticide Dimethoate in rainbow trout, Oncorhynchus mykiss and fathead minnow, *Pimephales promelas*. Poster session, 6th International Symposium of Fish Endocrinology, June 2008.  
+**Hontela A**, Quinn A, Friesen CN, and Vijayan MM. "Adrenal toxicity of the pesticide Dimethoate in rainbow trout, Oncorhynchus mykiss and fathead minnow, *Pimephales promelas*". Poster session, 6th International Symposium of Fish Endocrinology, June 2008.  
 
 ## Research and Related Work Experience
 **Research Intern:** Biology Department, University of California Riverside, CA.  			
@@ -208,8 +229,8 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 
 ## Skills from Experience  
 • grant and proposal writing • research methodology • data management and analysis • statistical analysis •   
-**Field Techniques:** animal handling experience (with Animal Safety Certification), and experience seining, netting, trapping, and electro-fishing  
-**Laboratory Techniques:** gel electrophoresis, western blotting, radioactive bioassay, ELISA, qPCR, RNA and protein extraction, brain dissections, tissue micro punches, histology, PFA fixing and tissue prep, and immunohistochemistry      
+**Field Techniques:** experience with animal handling (with Animal Safety Certification),seining, netting, trapping, and electro-fishing  
+**Laboratory Techniques:** gel electrophoresis, western blotting, radioactive bioassay, ELISA, qPCR, RNA and protein extraction, brain dissections, animal surgery, tissue micro punches, histology, PFA fixing and tissue prep, and immunohistochemistry      
 **Computer Techniques:** Excel, Word, PowerPoint, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, R, Python, GitHub  
 **Teaching Techniques:** experience with Blackboard, Canvas, and other management systems while teaching laboratory and discussion sessions  
   
@@ -235,12 +256,17 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 •	BIOL 112: Cell and Molecular Biology. Created presentations, graded assignments and quizzes, organized laboratory experiments. **Jan – May 2011**  
 •	BIOL 112: Cell and Molecular Biology. Created presentations, graded assignments and quizzes, organized laboratory experiments. **Jan – May 2009**  
   
-## Mentoring and Public Engagement  
+## Service and Community Engagement  
+GSU Summer Undergraduate Research Symposium (SURS), Poster Judge, **2024**   
+Institution on Neuroscience (ION) Summer Research Program for HS Students, Application Reviewer, **2024**   
+GSU Postdoctoral Association (PDA) Officer, Treasurer, **2023-present**  
+GSU Career Pathways in STEM, Workshop Panelist, **2023, 2024**   
+GSU Service-Neuroscience-Policy (SNP) Journal Club, Service Committee Member, **2022-2023**   
 INSTINCT REU - UT Austin Research Internship Program, Near-peer Mentor, **2021**   
-Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-present**   
-Austin Science Advocates, Member and Digest Contributor, **2016-present**  
-Crockett HS - UT Austin Research Internship Program, Mentor, **2016-present**  
+Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-2021**   
 Feature Scientist for KVUE, Scientist Interviewed on Bird Aggression, **2017**  
+Austin Science Advocates, Member and Digest Contributor, **2016-2019**  
+Crockett HS - UT Austin Research Internship Program, Mentor, **2016-2018** 
 Letters to a Pre-Scientist, Scientist Letter Writer, **2016-2017**  
 Environmental Science Institute, GK-12 SciRes Associate, **2015**  
 Science Under the Stars, Public Outreach and Children's Activity Coordinator, **2014, 2017**  
@@ -254,7 +280,7 @@ McGill Peer-to-peer Volunteer, **2009-2010**
 McGill University, Biology Graduate Student’s Association, PGSS Representative, **2009**  
 McGill University, Department of Biology, Graduate Student Symposium Organizer, **2009**  
 Marianapolis Science Camp. DNA Extraction Demonstrator, **2009**  
-Chinook Health Region, Emergency Department	 Volunteer, **2006-2007**  
+Chinook Health Region, Emergency Department Volunteer, **2006-2007**  
 Southern Alberta Art Gallery Volunteer, **2003-2007**  
 
 ## Manuscripts Reviewed
