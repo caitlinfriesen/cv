@@ -1,7 +1,7 @@
 # Caitlin N. Friesen 
 
 
-Aug 8, 2024   
+Sept 11, 2024   
 Neuroscience Institute   
 Georgia State University     
 caitlin.friesen@gmail.com   
@@ -262,6 +262,8 @@ Institution on Neuroscience (ION) Summer Research Program for HS Students, Appli
 GSU Postdoctoral Association (PDA) Officer, Treasurer, **2023-present**  
 GSU Career Pathways in STEM, Workshop Panelist, **2023, 2024**   
 GSU Service-Neuroscience-Policy (SNP) Journal Club, Service Committee Member, **2022-2023**   
+The Story Collider, Stories About Science, Speaker, **2023**    
+Beyond The Ivory Tower, Selected Writing Workshop Participant, **2023**   
 INSTINCT REU - UT Austin Research Internship Program, Near-peer Mentor, **2021**   
 Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-2021**   
 Feature Scientist for KVUE, Scientist Interviewed on Bird Aggression, **2017**  
