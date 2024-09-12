@@ -259,7 +259,7 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 ## Service and Community Engagement  
 GSU Summer Undergraduate Research Symposium (SURS), Poster Judge, **2024**   
 Institution on Neuroscience (ION) Summer Research Program for HS Students, Application Reviewer, **2024**   
-GSU Postdoctoral Association (PDA) Officer, Treasurer, **2023-present**  
+GSU Postdoctoral Association (PDA) Officer, Secretary, **2023-present**  
 GSU Career Pathways in STEM, Workshop Panelist, **2023, 2024**   
 GSU Service-Neuroscience-Policy (SNP) Journal Club, Service Committee Member, **2022-2023**   
 The Story Collider, Stories About Science, Speaker, **2023**    
