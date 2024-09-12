@@ -268,7 +268,7 @@ INSTINCT REU - UT Austin Research Internship Program, Near-peer Mentor, **2021**
 Adopt-a-Creek, Keep Austin Beautiful, Adopter, **2017-2021**   
 Feature Scientist for KVUE, Scientist Interviewed on Bird Aggression, **2017**  
 Austin Science Advocates, Member and Digest Contributor, **2016-2019**  
-Crockett HS - UT Austin Research Internship Program, Mentor, **2016-2018** 
+Crockett HS - UT Austin Research Internship Program, Mentor, **2016-2018**    
 Letters to a Pre-Scientist, Scientist Letter Writer, **2016-2017**  
 Environmental Science Institute, GK-12 SciRes Associate, **2015**  
 Science Under the Stars, Public Outreach and Children's Activity Coordinator, **2014, 2017**  
