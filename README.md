@@ -66,7 +66,7 @@ Provost’s Graduate Scholarship, McGill University, $1 500, **2009**
 Jason Lang Scholarship, University of Lethbridge, $1 000, **2005-2007**  
 
 ## Publications  
-**Friesen CN**, Hartswick D, Selke A, de Vries GJ, Petrulis A (2025). Sex difference in the effects of ventral pallidum vasopressin 1a receptor partial knockdown on social behavior in mice. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/pii/S0018506X25001187</a>  
+**Friesen CN**, Hartswick D, Selke A, de Vries GJ, Petrulis A (2025). Sex difference in the effects of ventral pallidum vasopressin 1a receptor partial knockdown on social behavior in mice. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/pii/S0018506X25001187" target="blank">doi.org/10.1016/j.yhbeh.2025.105792</a>  
 
 **Friesen CN**, Maclain KD, Hofmann HA (2022). Social status mediates behavioral, endocrine, and neural responses to an intruder challenge in a social cichlid, Astatotilapia burtoni. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/abs/pii/S0018506X22001350?via%3Dihub" target="blank">doi.org/10.1016/j.yhbeh.2022.105241</a>
 
@@ -91,6 +91,12 @@ McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colo
 **Friesen CN**, Hontela A (2012). The potential effects of cadmium and other mixed metal mining effluents on fish species in Morrison Lake, with particular emphasis on sockeye salmon. Review commissioned by Skeena Fisheries Commission. Submitted to the British Columbia Ministry of Environment, April 2012.  
 
 ## Presentations
+**Friesen CN**, Suarez SG, de Vries GJ, Petrulis A. “The effects of sex, strain, and social status on neural substrates of aggression in domesticated and wild-derived mice”. 29th Annual Meeting of the Society for Behavioral Neuroendocrinology, July 15, 2025  
+
+**Friesen CN**, de Vries GJ, Petrulis A. “Of fins and fur: Investigating the drivers of social behavior in diverse animal systems”. Psychology Seminar, University of Lethbridge, April 1, 2025  
+
+**Friesen CN**, Suarez SG, de Vries GJ, Petrulis A. “Neural substrates of aggression and the effect of sex in domesticated and wild-derived mice”. Society for Integrative and Comparative Biology Meeting, Jan 7, 2025  
+
 Zaw A, Schappaugh N, **Friesen CN**, de Vries GJ, Petrulis A. “Spatial organization of distinct vasopressinergic projections in the mouse brain”. 28th Annual Meeting of the Society for Behavioral Neuroendocrinology, June 25, 2024
 
 Schappaugh N, Zaw A, **Friesen CN**, de Vries GJ, Petrulis A. “Sex differences in vasopressin 1a receptor expression within the social behavior network of the mouse brain”. 28th Annual Meeting of the Society for Behavioral Neuroendocrinology, June 25, 2024
