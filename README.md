@@ -1,7 +1,7 @@
 # Caitlin N. Friesen 
 
 
-Sept 11, 2024   
+Aug 7, 2025   
 Neuroscience Institute   
 Georgia State University     
 caitlin.friesen@gmail.com   
@@ -66,6 +66,8 @@ Provost’s Graduate Scholarship, McGill University, $1 500, **2009**
 Jason Lang Scholarship, University of Lethbridge, $1 000, **2005-2007**  
 
 ## Publications  
+**Friesen CN**, Hartswick D, Selke A, de Vries GJ, Petrulis A (2025). Sex difference in the effects of ventral pallidum vasopressin 1a receptor partial knockdown on social behavior in mice. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/pii/S0018506X25001187</a>  
+
 **Friesen CN**, Maclain KD, Hofmann HA (2022). Social status mediates behavioral, endocrine, and neural responses to an intruder challenge in a social cichlid, Astatotilapia burtoni. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/abs/pii/S0018506X22001350?via%3Dihub" target="blank">doi.org/10.1016/j.yhbeh.2022.105241</a>
 
 Antunes DF, Teles MC, Zuelling M, **Friesen CN**, Oliveira RF, Aubin-Horth N, and Taborsky B (2021). Early social deprivation shapes neuronal programming of the social decision-making network in a cooperatively breeding fish. Molecular Ecology <a href="https://doi-org.ezproxy.lib.utexas.edu/10.1111/mec.16019" target="blank">doi.org/10.1111/mec.16019</a>
@@ -229,7 +231,7 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 
 ## Skills from Experience  
 • grant and proposal writing • research methodology • data management and analysis • statistical analysis •   
-**Field Techniques:** experience with animal handling (with Animal Safety Certification),seining, netting, trapping, and electro-fishing  
+**Field Techniques:** experience with animal handling (with Animal Safety Certification), seining, netting, trapping, and electro-fishing  
 **Laboratory Techniques:** gel electrophoresis, western blotting, radioactive bioassay, ELISA, qPCR, RNA and protein extraction, brain dissections, animal surgery, tissue micro punches, histology, PFA fixing and tissue prep, and immunohistochemistry      
 **Computer Techniques:** Excel, Word, PowerPoint, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, R, Python, GitHub  
 **Teaching Techniques:** experience with Blackboard, Canvas, and other management systems while teaching laboratory and discussion sessions  
@@ -257,9 +259,10 @@ Topic: Ecology – A wide scale survey of freshwater fishes in Southern Alberta 
 •	BIOL 112: Cell and Molecular Biology. Created presentations, graded assignments and quizzes, organized laboratory experiments. **Jan – May 2009**  
   
 ## Service and Community Engagement  
+GSU Postdoctoral Association (PDA) Officer, Co-Chair, **2024-present**   
 GSU Summer Undergraduate Research Symposium (SURS), Poster Judge, **2024**   
 Institution on Neuroscience (ION) Summer Research Program for HS Students, Application Reviewer, **2024**   
-GSU Postdoctoral Association (PDA) Officer, Secretary, **2023-present**  
+GSU Postdoctoral Association (PDA) Officer, Secretary, **2023-2024**  
 GSU Career Pathways in STEM, Workshop Panelist, **2023, 2024**   
 GSU Service-Neuroscience-Policy (SNP) Journal Club, Service Committee Member, **2022-2023**   
 The Story Collider, Stories About Science, Speaker, **2023**    
@@ -286,6 +289,7 @@ Chinook Health Region, Emergency Department Volunteer, **2006-2007**
 Southern Alberta Art Gallery Volunteer, **2003-2007**  
 
 ## Manuscripts Reviewed
+Behavior (1)  
 Behavioral Brain Research (1)  
 Biology Letters (1)  
 Environmental Sciences (1)   
