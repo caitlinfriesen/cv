@@ -1,9 +1,10 @@
 # Caitlin N. Friesen 
 
 
-Aug 7, 2025   
+April 6, 2026   
 Neuroscience Institute   
 Georgia State University     
+cfriesen@gsu.edu     
 caitlin.friesen@gmail.com   
       
 <a href="https://caitlinfriesen.com/" target="blank">website</a> :: <a href="https://github.com/caitlinfriesen" target="blank">GitHub</a> :: <a href="https://www.linkedin.com/in/caitlinfriesen/" target="blank">LinkedIn</a> :: <a href="https://twitter.com/SurlyJill" target="blank">Twitter</a> :: <a href="https://cfries.cargo.site/" target="blank">artwork</a> 
@@ -36,6 +37,7 @@ Cumulative G.P.A. 3.73
 _Neuroscience Institute, Georgia State University, Atlanta, GA_  
 
 ## Grants and Fellowships 
+2026 Digital Science Communication Fellowship, Museum of Science, $20 000, **2026**
 Graduate School Summer 2021 Fellowship, UT Austin, $11 000, **2021**  
 Graduate School Continuing Fellowship, UT Austin, $8 409, **2018**   
 P.E.O. Scholar Award, $15 000, **2018**   
@@ -66,6 +68,8 @@ Provost’s Graduate Scholarship, McGill University, $1 500, **2009**
 Jason Lang Scholarship, University of Lethbridge, $1 000, **2005-2007**  
 
 ## Publications  
+**Friesen CN**, Selke A, de Vries GJ, Petrulis A (2026). Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex. Hormones and Behavior <a href="https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1muGx,QxXvyQr/1/0102019d60449baa-5d1d8e43-a397-4385-b66b-dad95f641315-000000/H9DRHSuIHoj4WhvRFI1Ceq_KnQo=472" target="blank">doi.org/10/1016/j.yhbeh.2026.105931</a>
+
 **Friesen CN**, Hartswick D, Selke A, de Vries GJ, Petrulis A (2025). Sex difference in the effects of ventral pallidum vasopressin 1a receptor partial knockdown on social behavior in mice. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/pii/S0018506X25001187" target="blank">doi.org/10.1016/j.yhbeh.2025.105792</a>  
 
 **Friesen CN**, Maclain KD, Hofmann HA (2022). Social status mediates behavioral, endocrine, and neural responses to an intruder challenge in a social cichlid, Astatotilapia burtoni. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/abs/pii/S0018506X22001350?via%3Dihub" target="blank">doi.org/10.1016/j.yhbeh.2022.105241</a>
