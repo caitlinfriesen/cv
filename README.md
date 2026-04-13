@@ -95,9 +95,11 @@ McNeil GV, **Friesen CN**, Gray SM, Aldredge A, and Chapman LJ (2016). Male colo
 **Friesen CN**, Hontela A (2012). The potential effects of cadmium and other mixed metal mining effluents on fish species in Morrison Lake, with particular emphasis on sockeye salmon. Review commissioned by Skeena Fisheries Commission. Submitted to the British Columbia Ministry of Environment, April 2012.  
 
 ## Presentations
+**Friesen CN**. “Conserved and Flexible Neuroendocrine Mechanisms of Social Behavior”. Brains, Behavior, and Evolution Seminar, University of Texas at Austin, Sept 26, 2025  
+
 **Friesen CN**, Suarez SG, de Vries GJ, Petrulis A. “The effects of sex, strain, and social status on neural substrates of aggression in domesticated and wild-derived mice”. 29th Annual Meeting of the Society for Behavioral Neuroendocrinology, July 15, 2025  
 
-**Friesen CN**, de Vries GJ, Petrulis A. “Of fins and fur: Investigating the drivers of social behavior in diverse animal systems”. Psychology Seminar, University of Lethbridge, April 1, 2025  
+**Friesen CN**. “Of fins and fur: Investigating the drivers of social behavior in diverse animal systems”. Psychology Seminar, University of Lethbridge, April 1, 2025  
 
 **Friesen CN**, Suarez SG, de Vries GJ, Petrulis A. “Neural substrates of aggression and the effect of sex in domesticated and wild-derived mice”. Society for Integrative and Comparative Biology Meeting, Jan 7, 2025  
 
