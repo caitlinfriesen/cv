@@ -68,6 +68,8 @@ Provost’s Graduate Scholarship, McGill University, $1 500, **2009**
 Jason Lang Scholarship, University of Lethbridge, $1 000, **2005-2007**  
 
 ## Publications  
+Hartswick D, Zaw A, Schappaugh N, **Friesen CN**, de Vries GJ, Petrulis A (2026). Connectivity and phenotype of vasopressin 1a receptor cells in the lateral septum. bioRxiv <a href="https://www.biorxiv.org/content/10.1101/2025.10.26.683946v2" target="blank">doi.org/10.1101/2025.10.26.683946</a>   
+
 **Friesen CN**, Selke A, de Vries GJ, Petrulis A (2026). Social experience affects patterns of vasopressin receptor 1a expression in a way that differs by sex. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/pii/S0018506X26000565?dgcid=author" target="blank">doi.org/10/1016/j.yhbeh.2026.105931</a>   
 
 **Friesen CN**, Hartswick D, Selke A, de Vries GJ, Petrulis A (2025). Sex difference in the effects of ventral pallidum vasopressin 1a receptor partial knockdown on social behavior in mice. Hormones and Behavior <a href="https://www.sciencedirect.com/science/article/pii/S0018506X25001187" target="blank">doi.org/10.1016/j.yhbeh.2025.105792</a>  
