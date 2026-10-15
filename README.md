@@ -17,7 +17,7 @@ hormones and behavior * social behavior and reproduction * neuroendocrinology * 
 **Doctor of Philosophy in Ecology, Evolution, and Behavior**  
 **2013-2021**     
 _Section of Integrative Biology, The University of Texas at Austin, Austin, TX_  
-Supervisor: Dr. Hans A. Hofmann  
+Supervisors: Dr. Hans A. Hofmann and Dr. Michael J. Ryan    
   
 **Master of Science in Biology**  
 **2009-2011**  
