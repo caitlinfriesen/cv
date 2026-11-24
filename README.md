@@ -33,7 +33,7 @@ Cumulative G.P.A. 3.73
 
 ## Professional Appointments
 **Postdoctoral Researcher in Behavioral Neuroscience**  
-**2021-present**     
+**2022-present**     
 _Neuroscience Institute, Georgia State University, Atlanta, GA_  
 
 ## Grants and Fellowships 
